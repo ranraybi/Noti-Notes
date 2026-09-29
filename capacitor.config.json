@@ -1,0 +1,6 @@
+{
+  "appId": "com.github.notinotes",
+  "appName": "NotiNotes",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
